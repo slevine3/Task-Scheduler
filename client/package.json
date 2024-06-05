@@ -18,7 +18,7 @@
     "email-validator": "^2.0.4",
     "logrocket": "^3.0.0",
     "moment": "^2.29.3",
-    "react": "^18.1.0",
+    "react": "^18.3.1",
     "react-dom": "^18.1.0",
     "react-logger": "^1.1.0",
     "react-router-dom": "^6.3.0",
